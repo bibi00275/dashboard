@@ -6,6 +6,12 @@ public class Dashboard {
 		//Init Graphs//		
 		System.out.println("Init Graph Module");
 		Thread.sleep(2000);
+		System.out.println("Init Graph Module");
+		System.out.println("Init Graph Module");
+		System.out.println("Init Graph Module");
+		System.out.println("Init Graph Module");
+		System.out.println("Init Graph Module");
+		System.out.println("Init Graph Module");
 	} 
 	
 	public void initCalculation(){
