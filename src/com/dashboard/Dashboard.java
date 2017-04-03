@@ -5,7 +5,7 @@ public class Dashboard {
 	public void initGraphs() throws InterruptedException{
 		//Init Graphs//		
 		System.out.println("Init Graph Module");
-		Thread.sleep(1000);
+		Thread.sleep(2000);
 		System.out.println("Init Graph ");
 		System.out.println("Init Graph ");
 	} 
