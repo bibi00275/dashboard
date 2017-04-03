@@ -11,7 +11,9 @@ public class Dashboard {
 		System.out.println("Init Graph Module");
 		System.out.println("Init Graph Module");
 		System.out.println("Init Graph Module");
-		System.out.println("Init Graph Module");
+		System.out.println("Init Graph Module");		
+		System.out.println("Init Graph ");
+		System.out.println("Init Graph ");
 	} 
 	
 	public void initCalculation(){
