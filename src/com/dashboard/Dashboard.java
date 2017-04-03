@@ -2,9 +2,10 @@ package com.dashboard;
 
 public class Dashboard {
 	
-	public void initGraphs(){
+	public void initGraphs() throws InterruptedException{
 		//Init Graphs//		
 		System.out.println("Init Graph Module");
+		Thread.sleep(1000);
 	} 
 	
 	public void initCalculation(){
